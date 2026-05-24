@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 // src/app/api/reservations/expire/route.ts
 // This route can be called by a Vercel Cron job (set crons in vercel.json)
 // or hit manually. It releases all pending reservations past their expiresAt.
