@@ -1,3 +1,7 @@
+deployed link
+https://6a130cac945106d75a611607--lovely-sorbet-5c7f23.netlify.app
+
+
 # Allo Inventory — Take-Home Exercise
 
 A Next.js inventory and reservation platform with race-condition-safe stock reservation.
