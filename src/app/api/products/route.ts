@@ -1,3 +1,4 @@
+sed -i '' '1s/^/export const dynamic = "force-dynamic";\n/' src/app/api/products/route.ts
 import { NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
 
